@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/nicewiczpiotr/Fabrikam/_apis/build/status/nicewicz-piotr.testdevops?branchName=master)](https://dev.azure.com/nicewiczpiotr/Fabrikam/_build/latest?definitionId=2&branchName=master)
+![Build Status](https://dev.azure.com/nicewiczpiotr/Fabrikam/_apis/build/status/nicewicz-piotr.testdevops?branchName=master)(https://dev.azure.com/nicewiczpiotr/Fabrikam/_build/latest?definitionId=2&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
